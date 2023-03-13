@@ -68,5 +68,5 @@ removeIcon.addEventListener("click", () => {
   wrapper.classList.remove("active");
   infoText.style.color = "#9a9a9a";
   infoText.innerHTML =
-    "Type a word and press enter to get a meaning, example, pronunciation and synonym of that typed word.";
+    "Type a word and press enter to get meanings, examples, pronunciation and synonyms of that typed word.";
 });
