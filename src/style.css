@@ -172,3 +172,8 @@ ul .content::-webkit-scrollbar {
   text-decoration: underline;
   cursor: pointer;
 }
+
+.footer {
+  margin-top: 20px;
+  text-align: center;
+}
