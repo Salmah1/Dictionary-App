@@ -1,9 +1,5 @@
 # Dictionary Application
 
-## Link
-
-https://scintillating-alfajores-8cc8f6.netlify.app/
-
 ## Overview
 
 A web-based English dictionary application built with HTML, CSS, and JavaScript. The application allows users to search for words and retrieve their meanings, pronunciations, examples, and synonyms using the Free Dictionary API.
