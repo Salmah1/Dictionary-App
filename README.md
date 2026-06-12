@@ -34,6 +34,7 @@ A web-based English dictionary application built with HTML, CSS, and JavaScript.
 Dictionary-App/
 │
 ├── index.html
+├── dictionary.png
 ├── README.md
 │
 └── src/
